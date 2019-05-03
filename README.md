@@ -4,5 +4,4 @@
 - Just upload on some files to present.
 - Just type a dash to make options
 
-[X] Use this symbols to make checkboxes.
-
+[] Use this symbols to make checkboxes.
