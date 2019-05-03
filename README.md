@@ -9,3 +9,7 @@
 ------------------------------------------------------------------------------------------
 
 This upper line-dashed will serve as a separator.
+
+To do it, just use the dashes (- - - - -) together without making spaces.
+
+This README file is for several examples of how the symbols affect the programming script, except on specific languages.
