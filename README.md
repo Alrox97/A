@@ -5,3 +5,7 @@
 - Just type a dash to make options
 
 [X] Use this symbols to make checkboxes.
+
+------------------------------------------------------------------------------------------
+
+This upper line-dashed will serve as a separator.
